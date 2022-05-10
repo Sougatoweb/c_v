@@ -81,7 +81,8 @@ body {
 }
 
 .photography {
-  height: 200px;
+  width:25%;
+  height:25%;
 padding-left: 30px;
 float: right;
 
